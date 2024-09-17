@@ -1,0 +1,12 @@
+.toast-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 250px;
+}
+
+.toast-field {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

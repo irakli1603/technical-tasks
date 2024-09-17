@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}  
+
+html,body {
+  margin:0;
+  padding:0;
+}
+.example-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
